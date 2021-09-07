@@ -1,0 +1,36 @@
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\bin\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\bin\Debug\Zeki_Arslan_Socket.pdb
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.csprojAssemblyReference.cache
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.Form1.resources
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.Properties.Resources.resources
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.csproj.GenerateResource.cache
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.csproj.CoreCompileInputs.cache
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\source\repos\Zeki_Arslan_Socket\obj\Debug\Zeki_Arslan_Socket.pdb
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\bin\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\bin\Debug\Zeki_Arslan_Socket.pdb
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.csprojAssemblyReference.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.Form1.resources
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.Properties.Resources.resources
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.GenerateResource.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.CoreCompileInputs.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket Yakın PC\obj\Debug\Zeki_Arslan_Socket.pdb
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\bin\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\bin\Debug\Zeki_Arslan_Socket.pdb
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csprojAssemblyReference.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.Form1.resources
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.Properties.Resources.resources
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.GenerateResource.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.CoreCompileInputs.cache
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.exe
+C:\Users\zekii\Desktop\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.pdb
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\bin\Debug\Zeki_Arslan_Socket.exe
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\bin\Debug\Zeki_Arslan_Socket.pdb
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csprojAssemblyReference.cache
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.Form1.resources
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.Properties.Resources.resources
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.GenerateResource.cache
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.csproj.CoreCompileInputs.cache
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.exe
+F:\Yedek\source\repos\Zeki_Arslan_Socket-Yakın PC\obj\Debug\Zeki_Arslan_Socket.pdb
