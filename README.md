@@ -1,2 +1,2 @@
-# SocketProgramlama_ChatUygulamas-
+# SocketProgramlama_ChatUygulamasi
 C# Socket programlama kullanarak yazılmış chat uygulaması.
